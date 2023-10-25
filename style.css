@@ -1,0 +1,39 @@
+body{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+}
+.login{
+    background-color: #EBF3E8;
+}
+img{
+    width: 400px;
+}
+.text{
+    width: 400px;
+    font-size: 15px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-top: 5px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+ul li{
+    display: flex;
+    list-style-type: none;
+}
+.menu{
+    background-color: #B2C8BA;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15px;
+}
+.mail{
+    width: 400px;
+    font-size: 15px;
+}
