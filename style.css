@@ -2,16 +2,16 @@ body{
     margin: auto;
     text-align: center;
     align-items: center;
-    font-size: 25px;
+    font-size: 15px;
 }
 .login{
     background-color: #EBF3E8;
 }
 img{
-    width: 400px;
+    width: 300px;
 }
 .text{
-    width: 400px;
+    width: 300px;
     font-size: 15px;
 }
 .row{
